@@ -1,9 +1,12 @@
 GUI Screen Concepts
 ===================
 
-(["Online" version](https://luchs.ara.uberspace.de/pse/graphics/gui%20screen%20concepts/README.html) as SVGs aren't rendered on github)
+(["Online" version](https://luchs.ara.uberspace.de/pse/graphics/gui%20screen%20concepts/README.html) as SVGs aren't
+rendered on github)
 
-Some ideas of what the big white space in the middle of our [current GUI concept](http://i.imgur.com/RUPRziy.png) might look like. Note that there will usually be lot more space available than the 300x300px shown here. Try your browser's zoom function to get a better feeling.
+Some ideas of what the big white space in the middle of our [current GUI concept](http://i.imgur.com/RUPRziy.png) might
+look like. Note that there will usually be lot more space available than the 300x300px shown here. Try your browser's
+zoom function to get a better feeling.
 
 All images show a 3m * 3m pane with a grid at 50cm intervals. This should allow easy judgment of distances.
 
@@ -11,7 +14,8 @@ The Crazyflie graphics have an arrow which indicates the direction they are faci
 
 ![3m-toscale](./3m-toscale.svg)
 
-This file shows the Crazyflies in scale with the 3m pane. For example, if the pane is shown at 300x300px, a Crazyflie would only have 9px. I think this is too tiny.
+This file shows the Crazyflies in scale with the 3m pane. For example, if the pane is shown at 300x300px, a Crazyflie
+would only have 9px. I think this is too tiny.
 
 ![3m-2x](./3m-2x.svg)
 
@@ -34,3 +38,6 @@ Here's an alternative concept for indicating height difference:
 ![hovering triangles](./hover_height-triangles.svg)
 
 A thicker end might mean more height difference. I'm not sure whether this is intuitive enough though.
+
+
+    vim: tw=120
